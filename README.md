@@ -2,7 +2,7 @@
   Sou formado em Engenharia de Informática pela [Universidade Independente de Angola](http://secretaria.unia.ao/) e atualmente trabalho como Programador e Help Desk.
 
 
-## 🚀💻 Soft skills
+## 🚀💻 Hard skills
 1. PHP . 
 2. Laravel. 
 3. C# . 
@@ -11,7 +11,7 @@
 6. My SQL
 
 
-## 🚀🛠 Hard skills
+## 🚀🛠 Soft skills
  1. Fácil capacidade de aprendizagem.
  1. Capacidade de resolver problemas complexos.
  1. Boas habilidades interpessoais para trabalho em equipe.
