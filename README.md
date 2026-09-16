@@ -32,8 +32,6 @@ Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
 
 ## 📊 **Estatísticas do GitHub**
 
-*(Dica: Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub)*
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&locale=pt-br)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&locale=pt-br)
 
@@ -41,9 +39,9 @@ Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
 
 ## 📫 **Como me encontrar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genesio-gabriel-734991183/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genesiogabriel101998@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://apu-app.com/core/)
 
 ---
 *"Transformando café em código e problemas em soluções."* ☕💻
