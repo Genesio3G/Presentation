@@ -30,12 +30,6 @@ Aqui estão as tecnologias que domino e utilizo no meu dia a dia:
 
 ---
 
-## 📊 **Estatísticas do GitHub**
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&locale=pt-br)
-
----
 
 ## 📫 **Como me encontrar**
 
